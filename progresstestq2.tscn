@@ -3,8 +3,8 @@
 [sub_resource type="CubeMesh" id=1]
 
 [node name="Spatial" type="Spatial"]
-transform = Transform( 0.0458851, -0.0940783, 3.99452, 1.79759, 0.876742, 0, -0.875541, 1.79512, 0.209343, 3, 0, 0 )
+transform = Transform( 0.856349, -6.22151, 2.32826, 1.78009, 3.90694, -0.556692, -0.31294, 5.1989, 3.20457, 1.41336, 0, 0 )
 
 [node name="MeshInstance" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.000689745, 0, 0.047323 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 1.86265e-09, -3.72529e-09, 1, -0.0842614, 0.171347, -1.77151 )
 mesh = SubResource( 1 )
